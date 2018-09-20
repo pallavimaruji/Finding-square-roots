@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506943941 source:e:\c programmin\finding square roots\main.cpp
+	<iostream>
+	<math.h>
+
